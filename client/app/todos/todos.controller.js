@@ -22,6 +22,7 @@ angular.module('todosApp')
     };
 
     $scope.update = function(todo) {
+      console.log('updating todo:', JSON.stringify(todo));
       todosService.update(todo).then(function(response) {
         $scope.getAll();
       });
