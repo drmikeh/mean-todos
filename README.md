@@ -8,7 +8,7 @@ A TODOs App using MEAN Stack and the angular-fullstack Yeoman Generator
 * [Step 2 - Kick the tires](#step-2---kick-the-tires)
 * [Step 3 - Add client code for a TODO list](#step-3---add-client-code-for-a-todo-list)
 * [Step 4 - Add server code for a TODO list](#step-4---add-server-code-for-a-todo-list)
-* [Step 5 - Add a Delete button for TODOs.](#step-5---add-a-delete-button-for-todos.)
+* [Step 5 - Add a Delete button for TODOs.](#step-5---add-a-delete-button-for-todos)
 
 ## Step 0 - Install / Update Tools
 
